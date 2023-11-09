@@ -101,6 +101,12 @@
   align-items: center;
 }
 
+.grid-img-s101{
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 1.5rem;
+}
+
 
 
 /************************* Mobile ***********************/
